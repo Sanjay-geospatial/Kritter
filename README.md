@@ -7,9 +7,9 @@ This project develops a village-level composite development index for India by i
 
 The analysis combines:
 
-> NDVI (Normalized Difference Vegetation Index) as a proxy for agricultural productivity and vegetation health
-> Night Light Intensity as a proxy for electrification and economic activity
-> Mission Antyodaya village-level indicators representing socio-economic conditions, infrastructure, public services, and governance
++ NDVI (Normalized Difference Vegetation Index) as a proxy for agricultural productivity and vegetation health
++ Night Light Intensity as a proxy for electrification and economic activity
++ Mission Antyodaya village-level indicators representing socio-economic conditions, infrastructure, public services, and governance
 
 Using these datasets, a normalized and weighted Composite Development Index was created for villages across India, followed by national ranking and spatial visualization of the top-performing villages.
 
