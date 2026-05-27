@@ -10,4 +10,4 @@
    + analysis.ipynb file contains the python code that reads and analyses the extracted data from google earth engine and Misson Antyodaya
 
 \results
-+ This directory contains output of the analysis
++ This directory contains output of the analysis and the methodology power point file
