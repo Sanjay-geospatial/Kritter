@@ -55,20 +55,20 @@ The village-level development analysis was carried out by integrating satellite-
 
 A weighted NDVI index was developed using:
 
-Mean NDVI (NDVIₘ) → average greenness over the last 5 years
-NDVI Trend (NDVIₜ) → long-term vegetation trend over 5 years
-NDVI Standard Deviation (NDVIₛd) → temporal variability
++ Mean NDVI (NDVIₘ) → average greenness over the last 5 years
++ NDVI Trend (NDVIₜ) → long-term vegetation trend over 5 years
++ NDVI Standard Deviation (NDVIₛd) → temporal variability
 
 The weighted NDVI index was computed as:
 
-NDVI Index=0.55×NDVIₘ+0.35×NDVIₜ+0.10×NDVIsd
+	NDVI Index=0.55×NDVIₘ+0.35×NDVIₜ+0.10×NDVIsd
 	​
 
 Night Light Index (Electrification & Economic Activity)
 
-Mean Night Light (NLₘ)
-Night Light Trend (NLₜ)
-Night Light Standard Deviation (NLₛd)
++ Mean Night Light (NLₘ)
++ Night Light Trend (NLₜ)
++ Night Light Standard Deviation (NLₛd)
 
 The weighted Night Light Index was calculated as:
 
@@ -79,12 +79,12 @@ Night Light Index=0.55×NLₘ+0.35×NLₜ+0.10×NLₛd
 
 Village-level indicators from the Mission Antyodaya survey were grouped into six broad thematic categories:
 
-Infrastructure Parameters (IP)
-Water Availability Parameters (WP)
-Health & Education Parameters (HEP)
-Economic Parameters (EP)
-Digital Parameters (DP)
-Government Participation Parameters (GP)
++ Infrastructure Parameters (IP)
++ Water Availability Parameters (WP)
++ Health & Education Parameters (HEP)
++ Economic Parameters (EP)
++ Digital Parameters (DP)
++ Government Participation Parameters (GP)
 
 A weighted development index was then created as:
 
@@ -94,9 +94,9 @@ Development Index=0.25×IP+0.20×WP+0.20×HEP+0.15×EP+0.10×DP+0.10×GP
 
 Before combining the indices:
 
-NDVI Index
-Night Light Index
-Development Index
++ NDVI Index
++ Night Light Index
++ Development Index
 
 were normalized using Min-Max scaling to bring all variables to a common range between 0 and 1.
 
@@ -106,9 +106,9 @@ WCDI=0.50×Development Index+0.35×Night Light Index+0.15×NDVI Index
 
 Where:
 
-50% weight → socio-economic development indicators
-35% weight → night light intensity
-15% weight → NDVI
++ 50% weight → socio-economic development indicators
++ 35% weight → night light intensity
++ 15% weight → NDVI
 
 4. Village Ranking
 
