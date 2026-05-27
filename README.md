@@ -72,7 +72,7 @@ Night Light Index (Electrification & Economic Activity)
 
 The weighted Night Light Index was calculated as:
 
-Night Light Index=0.55×NLₘ+0.35×NLₜ+0.10×NLₛd
+	Night Light Index=0.55×NLₘ+0.35×NLₜ+0.10×NLₛd
 	​
 
 2. Mission Antyodaya Development Index
@@ -88,7 +88,7 @@ Village-level indicators from the Mission Antyodaya survey were grouped into six
 
 A weighted development index was then created as:
 
-Development Index=0.25×IP+0.20×WP+0.20×HEP+0.15×EP+0.10×DP+0.10×GP
+	Development Index=0.25×IP+0.20×WP+0.20×HEP+0.15×EP+0.10×DP+0.10×GP
 
 3. Weighted Composite Development Index (WCDI)
 
@@ -102,7 +102,7 @@ were normalized using Min-Max scaling to bring all variables to a common range b
 
 The final Weighted Composite Development Index (WCDI) was calculated as:
 
-WCDI=0.50×Development Index+0.35×Night Light Index+0.15×NDVI Index
+	WCDI=0.50×Development Index+0.35×Night Light Index+0.15×NDVI Index
 
 Where:
 
