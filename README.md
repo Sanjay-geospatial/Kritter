@@ -2,12 +2,9 @@
 
 ## Village Economic Growth Intelligence
 \Codes
-1. Data extraxcion
-   + ndvi_villages.js file code extracts annual mean NDVI for each villages of India
-   + nl_villages.js file code extracts annual mean Night light for each villages of India
-
-2. Data analysis
-   + analysis.ipynb file contains the python code that reads and analyses the extracted data from google earth engine and Misson Antyodaya
+   + NDVI_extraction.js file code extracts annual mean NDVI for each villages of India
+   + Night_Light_extraction.js file code extracts annual mean Night light for each villages of India
+   + data_analysis.ipynb file contains the python code that reads and analyses the extracted data from google earth engine and Misson Antyodaya
 
 \results
 + This directory contains output of the analysis and the methodology power point file
