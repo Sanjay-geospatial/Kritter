@@ -8,3 +8,9 @@
 
 \results
 + This directory contains output of the analysis and the methodology power point file
+
+\methodology
++ Economic development.ppt describes the methodology followed in this analysis briefly
+
+\plots
++ This directory contains the plots of key outcomes of this study
